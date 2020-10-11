@@ -1,0 +1,1 @@
+(a) No. There is no noticeable difference in sound quality between 1 byte/sample and 2 bytes/sample for me.
